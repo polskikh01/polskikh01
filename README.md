@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @polskikh01
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning JS, React&Redux
+- 📫 How to reach me:
+  - Email: polskikh01@gmail.com
+  - Telegram: https://t.me/Polskih01
