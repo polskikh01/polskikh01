@@ -4,3 +4,4 @@
 - 📫 How to reach me:
   - Email: polskikh01@gmail.com
   - Telegram: https://t.me/Polskih01
+  - Discord: Polskikh01#1416
