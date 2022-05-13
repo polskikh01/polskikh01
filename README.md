@@ -5,3 +5,5 @@
   - Email: polskikh01@gmail.com
   - Telegram: https://t.me/Polskih01
   - Discord: Polskikh01#1416
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polskikh01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
